@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import Arcsine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-ctor@deno/mod.js';
+import Arcsine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-ctor@v0.1.0-deno/mod.js';
 ```
 
 #### Arcsine( \[a, b] )
@@ -292,7 +292,7 @@ y = arcsine.quantile( 1.9 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import Arcsine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-ctor@deno/mod.js';
+import Arcsine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-ctor@v0.1.0-deno/mod.js';
 
 var arcsine = new Arcsine( 2.0, 4.0 );
 
